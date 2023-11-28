@@ -8,3 +8,5 @@ Khi mở app lên thì có màn hình splashscreen không sử dụng các ảnh
     + flutter_native_splash
 - Các chỉnh sửa liên quan tới native
     + Thêm signingConfig trong build.gradle và key.properties để build app release
+- Hạn chế
+    + Giao diện chưa được trau chuốt

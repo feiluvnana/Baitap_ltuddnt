@@ -13,3 +13,6 @@ Khi mở app lên thì trong app có đủ các loại quảng cáo của Google
 - Các chỉnh sửa liên quan tới native
     + Đã thêm thẻ meta-data của admod trong file AndroidManifest.xml
     + Thêm signingConfig trong build.gradle và key.properties để build app release
+- Hạn chế
+    + Chưa xử lý exception hoàn chỉnh
+    + Giao diện chưa được trau chuốt
